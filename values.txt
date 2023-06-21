@@ -1,0 +1,427 @@
+ Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 34 months ago(Updated: 34 months ago) Price is: 1.6 Crore
+ Location is: Deenpur Sharif, Bahawalnagar
+ Last Update is:  Added: 3 weeks ago(Updated: 3 weeks ago) Price is: 2.3 Crore
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 2 months ago(Updated: 2 months ago) Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago) Price is: 75 Lakh
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago) Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago) Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago) Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago) Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago) Price is: 72 Lakh
+ Location is: Farooq Abad, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 11 months ago) Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 9 months ago Price is: 80 Lakh
+ Location is: Faisal Colony, Bahawalnagar
+ Last Update is:  Added: 15 months ago(Updated: 15 months ago) Price is: 45 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago Price is: 35 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 49 months ago Price is: 55 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 25 months ago Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 31 months ago Price is: 60 Lakh
+ Location is: Haroonabad Road, Fort Abbas
+ Last Update is:  Added: 33 months ago(Updated: 33 months ago) Price is: 35 Lakh
+ Location is: Others, Bahawalnagar
+ Last Update is:  Added: 38 months ago(Updated: 38 months ago) Price is: 35 Lakh
+ Location is: Dahranwala, Bahawalnagar
+ Last Update is:  Added: 35 months ago Price is: 40 Lakh
+ Location is: Amir Kot, Bahawalnagar
+ Last Update is:  Added: 50 months ago(Updated: 50 months ago) Price is: 27 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago Price is: 70 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago Price is: 27 Lakh
+ Location is: Haroonabad Bahawalnagar Road, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago) Price is: 32 Lakh
+ Location is: Sadaat Colony, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago) Price is: 10 Lakh
+ Location is: Railway Colony, Bahawalnagar
+ Last Update is:  Added: 31 months ago Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 34 months ago(Updated: 34 months ago) Price is: 1.6 Crore
+ Location is: Deenpur Sharif, Bahawalnagar
+ Last Update is:  Added: 3 weeks ago(Updated: 3 weeks ago)
+ Price is: 2.3 Crore
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 2 months ago(Updated: 2 months ago)
+ Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+ Price is: 75 Lakh
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+ Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+ Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+ Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+ Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+ Price is: 72 Lakh
+ Location is: Farooq Abad, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 11 months ago)
+ Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 9 months ago
+ Price is: 80 Lakh
+ Location is: Faisal Colony, Bahawalnagar
+ Last Update is:  Added: 15 months ago(Updated: 15 months ago)
+ Price is: 45 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+ Price is: 35 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 49 months ago
+ Price is: 55 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 25 months ago
+ Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+ Price is: 60 Lakh
+ Location is: Haroonabad Road, Fort Abbas
+ Last Update is:  Added: 33 months ago(Updated: 33 months ago)
+ Price is: 35 Lakh
+ Location is: Others, Bahawalnagar
+ Last Update is:  Added: 38 months ago(Updated: 38 months ago)
+ Price is: 35 Lakh
+ Location is: Dahranwala, Bahawalnagar
+ Last Update is:  Added: 35 months ago
+ Price is: 40 Lakh
+ Location is: Amir Kot, Bahawalnagar
+ Last Update is:  Added: 50 months ago(Updated: 50 months ago)
+ Price is: 27 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+ Price is: 70 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+ Price is: 27 Lakh
+ Location is: Haroonabad Bahawalnagar Road, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+ Price is: 32 Lakh
+ Location is: Sadaat Colony, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+ Price is: 10 Lakh
+ Location is: Railway Colony, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+ Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 34 months ago(Updated: 34 months ago)
+1: Price is: 1.6 Crore
+ Location is: Deenpur Sharif, Bahawalnagar
+ Last Update is:  Added: 3 weeks ago(Updated: 3 weeks ago)
+2: Price is: 2.3 Crore
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 2 months ago(Updated: 2 months ago)
+3: Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+4: Price is: 75 Lakh
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+5: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+6: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+7: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+8: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+9: Price is: 72 Lakh
+ Location is: Farooq Abad, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 11 months ago)
+10: Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 9 months ago
+11: Price is: 80 Lakh
+ Location is: Faisal Colony, Bahawalnagar
+ Last Update is:  Added: 15 months ago(Updated: 15 months ago)
+12: Price is: 45 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+13: Price is: 35 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 49 months ago
+14: Price is: 55 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 25 months ago
+15: Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+16: Price is: 60 Lakh
+ Location is: Haroonabad Road, Fort Abbas
+ Last Update is:  Added: 33 months ago(Updated: 33 months ago)
+17: Price is: 35 Lakh
+ Location is: Others, Bahawalnagar
+ Last Update is:  Added: 38 months ago(Updated: 38 months ago)
+18: Price is: 35 Lakh
+ Location is: Dahranwala, Bahawalnagar
+ Last Update is:  Added: 35 months ago
+19: Price is: 40 Lakh
+ Location is: Amir Kot, Bahawalnagar
+ Last Update is:  Added: 50 months ago(Updated: 50 months ago)
+20: Price is: 27 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+21: Price is: 70 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+22: Price is: 27 Lakh
+ Location is: Haroonabad Bahawalnagar Road, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+23: Price is: 32 Lakh
+ Location is: Sadaat Colony, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+24: Price is: 10 Lakh
+ Location is: Railway Colony, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+25: Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 34 months ago(Updated: 34 months ago)
+1: Price is: 1.6 Crore
+   Location is: Deenpur Sharif, Bahawalnagar
+ Last Update is:  Added: 3 weeks ago(Updated: 3 weeks ago)
+2: Price is: 2.3 Crore
+   Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 2 months ago(Updated: 2 months ago)
+3: Price is: 75 Lakh
+   Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+4: Price is: 75 Lakh
+   Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+5: Price is: 72 Lakh
+   Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+6: Price is: 72 Lakh
+   Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+7: Price is: 72 Lakh
+   Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+8: Price is: 72 Lakh
+   Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+9: Price is: 72 Lakh
+   Location is: Farooq Abad, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 11 months ago)
+10: Price is: 75 Lakh
+   Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 9 months ago
+11: Price is: 80 Lakh
+   Location is: Faisal Colony, Bahawalnagar
+ Last Update is:  Added: 15 months ago(Updated: 15 months ago)
+12: Price is: 45 Lakh
+   Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+13: Price is: 35 Lakh
+   Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 49 months ago
+14: Price is: 55 Lakh
+   Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 25 months ago
+15: Price is: 50 Lakh
+   Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+16: Price is: 60 Lakh
+   Location is: Haroonabad Road, Fort Abbas
+ Last Update is:  Added: 33 months ago(Updated: 33 months ago)
+17: Price is: 35 Lakh
+   Location is: Others, Bahawalnagar
+ Last Update is:  Added: 38 months ago(Updated: 38 months ago)
+18: Price is: 35 Lakh
+   Location is: Dahranwala, Bahawalnagar
+ Last Update is:  Added: 35 months ago
+19: Price is: 40 Lakh
+   Location is: Amir Kot, Bahawalnagar
+ Last Update is:  Added: 50 months ago(Updated: 50 months ago)
+20: Price is: 27 Lakh
+   Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+21: Price is: 70 Lakh
+   Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+22: Price is: 27 Lakh
+   Location is: Haroonabad Bahawalnagar Road, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+23: Price is: 32 Lakh
+   Location is: Sadaat Colony, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+24: Price is: 10 Lakh
+   Location is: Railway Colony, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+25: Price is: 50 Lakh
+   Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 34 months ago(Updated: 34 months ago)
+1: Price is: 1.6 Crore
+    Location is: Deenpur Sharif, Bahawalnagar
+    Last Update is:  Added: 3 weeks ago(Updated: 3 weeks ago)
+2: Price is: 2.3 Crore
+    Location is: Model Town, Bahawalnagar
+    Last Update is:  Added: 2 months ago(Updated: 2 months ago)
+3: Price is: 75 Lakh
+    Location is: Bahawalnagar Bypass, Bahawalnagar
+    Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+4: Price is: 75 Lakh
+    Location is: Model Town, Bahawalnagar
+    Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+5: Price is: 72 Lakh
+    Location is: Chishtian Road, Bahawalnagar
+    Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+6: Price is: 72 Lakh
+    Location is: Chishtian Road, Bahawalnagar
+    Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+7: Price is: 72 Lakh
+    Location is: Chishtian Road, Bahawalnagar
+    Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+8: Price is: 72 Lakh
+    Location is: Chishtian Road, Bahawalnagar
+    Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+9: Price is: 72 Lakh
+    Location is: Farooq Abad, Bahawalnagar
+    Last Update is:  Added: 12 months ago(Updated: 11 months ago)
+10: Price is: 75 Lakh
+    Location is: Bahawalnagar Bypass, Bahawalnagar
+    Last Update is:  Added: 9 months ago
+11: Price is: 80 Lakh
+    Location is: Faisal Colony, Bahawalnagar
+    Last Update is:  Added: 15 months ago(Updated: 15 months ago)
+12: Price is: 45 Lakh
+    Location is: Millat Colony, Bahawalnagar
+    Last Update is:  Added: 24 months ago
+13: Price is: 35 Lakh
+    Location is: Bahawalnagar Bypass, Bahawalnagar
+    Last Update is:  Added: 49 months ago
+14: Price is: 55 Lakh
+    Location is: Millat Colony, Bahawalnagar
+    Last Update is:  Added: 25 months ago
+15: Price is: 50 Lakh
+    Location is: Police Line Road, Bahawalnagar
+    Last Update is:  Added: 31 months ago
+16: Price is: 60 Lakh
+    Location is: Haroonabad Road, Fort Abbas
+    Last Update is:  Added: 33 months ago(Updated: 33 months ago)
+17: Price is: 35 Lakh
+    Location is: Others, Bahawalnagar
+    Last Update is:  Added: 38 months ago(Updated: 38 months ago)
+18: Price is: 35 Lakh
+    Location is: Dahranwala, Bahawalnagar
+    Last Update is:  Added: 35 months ago
+19: Price is: 40 Lakh
+    Location is: Amir Kot, Bahawalnagar
+    Last Update is:  Added: 50 months ago(Updated: 50 months ago)
+20: Price is: 27 Lakh
+    Location is: Millat Colony, Bahawalnagar
+    Last Update is:  Added: 24 months ago
+21: Price is: 70 Lakh
+    Location is: Millat Colony, Bahawalnagar
+    Last Update is:  Added: 24 months ago
+22: Price is: 27 Lakh
+    Location is: Haroonabad Bahawalnagar Road, Bahawalnagar
+    Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+23: Price is: 32 Lakh
+    Location is: Sadaat Colony, Bahawalnagar
+    Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+24: Price is: 10 Lakh
+    Location is: Railway Colony, Bahawalnagar
+    Last Update is:  Added: 31 months ago
+25: Price is: 50 Lakh
+    Location is: Police Line Road, Bahawalnagar
+    Last Update is:  Added: 34 months ago(Updated: 34 months ago)
+1: Price is: 1.6 Crore
+ Location is: Deenpur Sharif, Bahawalnagar
+ Last Update is:  Added: 4 weeks ago(Updated: 3 weeks ago)
+2: Price is: 2.3 Crore
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 2 months ago(Updated: 2 months ago)
+3: Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+4: Price is: 75 Lakh
+ Location is: Model Town, Bahawalnagar
+ Last Update is:  Added: 11 months ago(Updated: 11 months ago)
+5: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+6: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+7: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+8: Price is: 72 Lakh
+ Location is: Chishtian Road, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 12 months ago)
+9: Price is: 72 Lakh
+ Location is: Farooq Abad, Bahawalnagar
+ Last Update is:  Added: 12 months ago(Updated: 11 months ago)
+10: Price is: 75 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 9 months ago
+11: Price is: 80 Lakh
+ Location is: Faisal Colony, Bahawalnagar
+ Last Update is:  Added: 15 months ago(Updated: 15 months ago)
+12: Price is: 45 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+13: Price is: 35 Lakh
+ Location is: Bahawalnagar Bypass, Bahawalnagar
+ Last Update is:  Added: 49 months ago
+14: Price is: 55 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 25 months ago
+15: Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+16: Price is: 60 Lakh
+ Location is: Haroonabad Road, Fort Abbas
+ Last Update is:  Added: 33 months ago(Updated: 33 months ago)
+17: Price is: 35 Lakh
+ Location is: Others, Bahawalnagar
+ Last Update is:  Added: 38 months ago(Updated: 38 months ago)
+18: Price is: 35 Lakh
+ Location is: Dahranwala, Bahawalnagar
+ Last Update is:  Added: 35 months ago
+19: Price is: 40 Lakh
+ Location is: Amir Kot, Bahawalnagar
+ Last Update is:  Added: 50 months ago(Updated: 50 months ago)
+20: Price is: 27 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+21: Price is: 70 Lakh
+ Location is: Millat Colony, Bahawalnagar
+ Last Update is:  Added: 24 months ago
+22: Price is: 27 Lakh
+ Location is: Haroonabad Bahawalnagar Road, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+23: Price is: 32 Lakh
+ Location is: Sadaat Colony, Bahawalnagar
+ Last Update is:  Added: 29 months ago(Updated: 29 months ago)
+24: Price is: 10 Lakh
+ Location is: Railway Colony, Bahawalnagar
+ Last Update is:  Added: 31 months ago
+25: Price is: 50 Lakh
+ Location is: Police Line Road, Bahawalnagar
+ Last Update is:  Added: 34 months ago(Updated: 34 months ago)
